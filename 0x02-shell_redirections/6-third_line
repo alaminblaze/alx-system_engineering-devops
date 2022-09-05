@@ -1,0 +1,2 @@
+#!/bib/bash
+cat iacta | head -3 
