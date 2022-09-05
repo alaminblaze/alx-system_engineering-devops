@@ -1,2 +1,2 @@
 #!/bib/bash
- pr -m -t file1 file2
+cat /etc/passwd
